@@ -1,0 +1,149 @@
+.div
+{
+  margin: 0;
+  padding: 0;
+}
+
+h2, p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin-top: 1px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f5f0f0;
+}
+
+ul li {
+  float: right;
+}
+
+ul li a {
+  display: block;
+  color: rgb(12, 12, 12);
+  text-align: center;
+  padding: 15px 16px;
+  text-decoration: none;
+}
+ul li a:hover {
+  background-color: #201a1a;
+}
+ul li {
+font-family: sans-serif;
+font-size: 16PX; 
+}
+.one{
+width: 20%;
+height: 200px;
+margin-top: 50px;
+margin: 10px;
+margin-left: 30px;
+float: left;
+}
+.two{
+width: 20%;
+height: 200px;
+margin-top: 50px;
+margin: 10px;
+margin-left: 30px;
+float: left;
+}
+.three{
+width: 20%;
+margin-top: 70px;
+height: 200px;
+margin: 10px;
+margin-left: 30px;
+float: left;
+}
+.four{
+width:20%;
+margin-top: 50px;
+height: 200px;
+margin: 10px;
+margin-left: 30px;
+float: left;
+}
+.five{
+width: 20%;
+margin-top: 50px;
+height: 200px;
+margin: 10px;
+margin-left: 30px;
+float: left;
+}
+.six{
+width: 20%;
+margin-top: 50px;
+height: 200px;
+margin: 10px;
+margin-left: 30px;
+float: left;
+}
+.seven{
+width: 20%;
+margin-top: 50px;
+height: 200px;
+margin: 10px;
+margin-left: 30px;
+float: left;
+}
+.eight{
+width: 20%;
+margin-top: 50px;
+height: 200px;
+margin: 10px;
+margin-left: 30px;
+float: left;
+}
+.nine{
+width: 90%;
+margin-top: 50px;
+height: 150px;
+margin: 10px;
+margin-left: 20px;
+float: left;
+}
+.teen{
+width: 20%;
+margin-top: 50px;
+height: 200px;
+margin: 15px;
+margin-left: 50px;
+float: left;
+}
+.eleven{
+width: 20%;
+margin-top: 50px;
+height: 200px;
+margin: 15px;
+margin-left: 10px;
+float: left;
+}
+.Twelve{
+width: 20%;
+margin-top: 10px;
+height: 200px;
+margin: 15px;
+margin-left: 10px;
+float: left;
+}
+.thirteen{
+border: 1px solid rebeccapurple;
+width: 20%;
+height: 200px;
+margin-top: 10px;
+margin: 15px;
+margin-left: 5px;
+float: left;
+}
+.fourtheen{
+border: 1px solid rebeccapurple;
+width: 20%;
+height: 250px;
+margin-top: 250px;
+margin-left: 5px;
+float: left;
+}
